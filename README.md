@@ -7,6 +7,7 @@ This repository is for university a assignment.
   
 ## The task:
   - Using the Udacity Car simulator create a self-driving car
+  - The simulator is subject to change (other contenders: carla, deepdrive)
  
 ## The approach:
   - Implement a working solution to test the setup
